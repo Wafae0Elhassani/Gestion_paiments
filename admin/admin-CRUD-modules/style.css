@@ -1,0 +1,27 @@
+.modifier {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .modifier:hover {
+    background-color: #0056b3;
+    opacity: 1.5;
+  }
+
+  .supprimer {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .supprimer:hover {
+    background-color: #c82333;
+    opacity: 1.5;
+  }
